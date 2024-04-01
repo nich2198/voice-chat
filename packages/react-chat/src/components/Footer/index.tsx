@@ -61,8 +61,8 @@ const Footer: React.FC<FooterProps> = ({ withWatermark, hasEnded, disableSend, o
       {withWatermark && (
         <Watermark>
           Assistant ⚡️ by
-          <a target="_blank" href="https://voiceflow.com" rel="noreferrer">
-            Voiceflow
+          <a target="_blank" href="https://dialogintelligens.dk" rel="noreferrer">
+            Dialog Intelligens
           </a>
         </Watermark>
       )}
